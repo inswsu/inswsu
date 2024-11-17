@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science, Machine Learning, and Web Development.
 - 🌱 I’m currently learning Python, R, and JavaScript to enhance my coding and analytical skills.
 - 💞️ I’m looking to collaborate on projects related to AI, Open Source Software, and Educational Technologies.
-- 📫 How to reach me ... you can contact me at inswsu@email.com .
+- 📫 How to reach me ... you can contact me at inswsu@gmail.com .
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 - <!---
